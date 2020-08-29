@@ -4,7 +4,7 @@
 
 
 
-keywords: [[https://srfi.schemers.org/?keywords=numeric][Numeric]]
+keywords: [[https://srfi.schemers.org/?keywords=numbers][Numbers]]
 
 This repository hosts [[https://srfi.schemers.org/srfi-94/][SRFI 94]]: Type-Restricted Numerical Functions, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
